@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: black
+}
+
+@layer components {
+    .nav_btn {
+        @apply  font-sans text-gold font-bold text-[16px]  px-[30px] py-[10px] leading-[22px];
+    }
+    .nav_btn:hover {
+        @apply w-full;
+    }
+    .li_btn{
+        @apply  text-white text-[12px] py-[10px] px-[30px] cursor-pointer
+    }
+    .li_btn:hover{
+        @apply ring-2 ring-opacity-40 ring-white
+    }
+    .selectNFT{
+        @apply border-2 border-gold
+    }
+    .paused{
+        animation-play-state: paused
+    }
+  }
