@@ -1,6 +1,4 @@
-# Alphitter
-
-Portfolio
+# BarNFT
 
 ## Getting Start
 
@@ -16,8 +14,8 @@ Portfolio
 
 ## Intro
 
-1. 查看作品的詳細資訊
-2. 聯絡我
+1. Web3作品，在Z學院的專案，但沒有串智能合約，可連結錢包
+2. 主要是發行門票型的NFT，不同NFT可以合成出新的NFT
 
 ## 開發環境
 
